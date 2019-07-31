@@ -6,3 +6,4 @@
 * Queues
 * Hash Tables
 * Binary Trees
+* _Binary Heaps_
