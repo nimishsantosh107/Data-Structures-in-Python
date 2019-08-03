@@ -7,3 +7,4 @@
 * Hash Tables
 * Binary Trees
 * _Binary Heaps_
+* Tries
